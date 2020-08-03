@@ -3,6 +3,12 @@ import java.util.Scanner;
 public class Figures {
 	
 	public static void main(String[] args) {
+		
+		System.out.println("Programming Fundamentals");
+		System.out.println("Summer 2020");
+		System.out.println("Name: Rachel Papiernik");
+		System.out.println("PROGRAMMING ASSIGNMENT 2 \n");
+
 		// Declaration of variables
 		int size, choise;
 		Scanner scan = new Scanner(System.in);
